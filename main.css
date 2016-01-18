@@ -1,0 +1,31 @@
+*{
+	width: 200px;
+	height: 200px;
+	}
+
+.a{
+	background-color: #ed2251;
+	left:0;
+	top: 0;
+	position: absolute;
+}
+
+.b{
+	background-color: #3a81ba;
+	right:0;
+	top: 0;
+	position: absolute;
+}
+
+.c{
+	background-color: #8bab42;
+	left:0;
+	bottom:0;
+	position: absolute;
+}
+
+.d{
+	background-color: #ffff00;
+	right:0;
+	bottom:0;
+	position: absolute;}

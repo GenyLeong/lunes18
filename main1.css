@@ -1,0 +1,19 @@
+*{
+	width: 200px;
+	height: 200px;
+	position:relative;
+	}
+
+.a{
+	background-color: #ed2251;
+}
+
+.b{
+	background-color: #3a81ba;
+	left:200px;
+}
+
+.c{
+	background-color: #8bab42;
+
+}

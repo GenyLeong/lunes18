@@ -1,0 +1,29 @@
+div{
+	width: 200px;
+	height: 200px;
+	}
+
+.a{
+	background-color: #ed2251;
+}
+
+.b{
+	background-color: #3a81ba;
+	position: absolute;
+	left: 200px;
+}
+
+.c{
+	background-color: #8bab42;
+
+	}
+
+.d{
+	background-color: #ffff00;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+
+}
